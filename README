@@ -1,0 +1,5 @@
+Aneulysis is a software to visualize simulated aneurysm data comprising time-dependent scalar, vector and tensor fields. 
+
+Aneulysis consists of five modules the visually explore the different data types describing the aneurysm wall behaviour and internal blood flow. 
+
+We publish here the source code of the five modules as well as an exemplary data set to test the modules.
